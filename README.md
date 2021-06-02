@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ZENXDotPY
+- 👀 I’m interested in pretty much everything
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me: email me on Zenxdotpy@gmail.com
