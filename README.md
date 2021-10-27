@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @ZENXDotPY
-- 👀 I’m interested in pretty much everything
-- 🌱 I’m not currently learning anything
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me: email me on Zenxdotpy@gmail.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZENXDotPY)](https://github.com/anuraghazra/github-readme-stats)
